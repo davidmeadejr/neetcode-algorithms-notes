@@ -1,21 +1,21 @@
 # RAM
 
-## What is a Data Structure?
+### What is a Data Structure?
 
 - In the context of computers a data structure is a way to organise data inside of RAM.
 
-## RAM
+### RAM
 
 - RAM is where all variables and data gets stored inside a computer
 
 ### Example
 
-### Array of numbers
+*Array of numbers*
 
 |   1   |   3   |   5   |
 |:-----:|:-----:|:-----:|
 
-### RAM (Empty State)
+*RAM (Empty State)*
 
 |       |       |       |       |       |       |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
